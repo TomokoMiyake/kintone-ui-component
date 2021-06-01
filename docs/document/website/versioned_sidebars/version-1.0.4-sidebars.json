@@ -35,8 +35,14 @@
     "Guides": [
       "version-1.0.4-guides/comparison-v0-v1",
       "version-1.0.4-guides/search-box-customization"
-    ],
+    ]
+  },
+  "version-1.0.4-releases": {
     "Releases": [
+      "version-1.0.4-releases/release-notes-v1.0.0",
+      "version-1.0.4-releases/release-notes-v1.0.1",
+      "version-1.0.4-releases/release-notes-v1.0.2",
+      "version-1.0.4-releases/release-notes-v1.0.3",
       "version-1.0.4-releases/release-notes-v1.0.4"
     ]
   }

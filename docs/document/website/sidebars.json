@@ -35,11 +35,11 @@
       "guides/search-box-customization"
     ],
     "Releases": [
-      "releases/release-notes-v1.0.4",
-      "releases/release-notes-v1.0.3",
-      "releases/release-notes-v1.0.2",
+      "releases/release-notes-v1.0.0",
       "releases/release-notes-v1.0.1",
-      "releases/release-notes-v1.0.0"
+      "releases/release-notes-v1.0.2",
+      "releases/release-notes-v1.0.3",
+      "releases/release-notes-v1.0.4"
     ]
   }
 }
